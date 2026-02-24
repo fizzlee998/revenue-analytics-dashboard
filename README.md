@@ -1,4 +1,6 @@
 # revenue-analytics-dashboard
+![Dashboard Preview](Dashboard_Preview.png)
+
 📊 Sales & Profit Performance Dashboard
 
 This project presents an interactive dashboard designed to analyze business performance across sales, profit, and operational metrics.
